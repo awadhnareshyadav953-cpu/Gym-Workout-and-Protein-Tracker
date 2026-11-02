@@ -1,0 +1,42 @@
+
+====================================
+   GYM WORKOUT & PROTEIN TRACKER
+====================================
+
+Enter body weight (kg): 70
+
+Choose your workout routine:
+1. Chest and Triceps
+2. Back and Biceps
+3. Legs and Abs
+4. Shoulders and Core
+5. Full Body Workout
+
+Enter choice (1-5): 1
+
+Enter workout duration (minutes): 60
+
+Choose protein target:
+1. 1.2 grams per kg
+2. 1.6 grams per kg
+3. 2.0 grams per kg
+
+Enter choice (1-3): 2
+
+Enter protein consumed (grams):
+
+Breakfast: 20
+Lunch: 25
+Dinner: 20
+Post-workout: 25
+
+========== DAILY SUMMARY ==========
+
+Workout: Chest and Triceps
+Duration: 60 minutes
+Body Weight: 70.0 kg
+Protein Target: 112.0 grams
+Total Protein: 90.0 grams
+Protein Remaining: 22.0 grams
+
+Thank you for using the tracker!
